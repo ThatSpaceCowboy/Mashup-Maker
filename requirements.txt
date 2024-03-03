@@ -1,5 +1,5 @@
-streamlit==0.89.0
-moviepy==1.0.3
-pytube==11.0.1
-youtubesearchpython==1.4.5
+streamlit
+moviepy
+pytube
+youtube-search-python
 
